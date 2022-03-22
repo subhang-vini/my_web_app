@@ -1,9 +1,5 @@
 on: 
   push: 
-    branches:
-      - master
-on: 
-  push: 
     branches: 
       - add-deployment-github-action
 jobs: 
